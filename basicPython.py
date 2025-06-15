@@ -13,7 +13,7 @@ print("Age:", age)
 print("Is Active:", is_Active)
 print("Value of Pi:", pi)
 
-# Printing types of variablesßßßß
+# Printing types of variables
 print(type(name))  # <class 'str'>
 print(type(age))   # <class 'int'>
 print(type(is_Active))  # <class 'bool'>
